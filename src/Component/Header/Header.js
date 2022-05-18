@@ -18,7 +18,7 @@ const Header = () => {
             <Container>
                 <Navbar.Brand as={Link} to="/">
                     <img height={40} src={navbar} alt="" /></Navbar.Brand>
-                <Navbar.Brand as={Link} to="/home">My PhotoGraphy</Navbar.Brand>
+                <Navbar.Brand as={Link} to="/home">PhotoGraphy</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">

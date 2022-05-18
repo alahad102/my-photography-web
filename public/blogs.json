@@ -1,0 +1,17 @@
+[
+    {
+      "id": "624c25b2990a7df785afe960",
+      "question": "What are the differences between Authorization and Authentication?\r\n",
+      "answer": "Authentication is the process of identifying users in order to grant them access to the system, whereas Authorization is the process of verifying a person's or user's authority to access resources. Users or persons are verified during the authentication process, but users or persons are validated during the authorization process. Authentication takes place before authorization, and authorization takes place after authentication. The user's login information is normally required for authorization. Authorization requires the privilege or security levels of the user. Authorization establishes what permissions the user has, while authentication determines whether the person is a user.\r\n"
+    },
+    {
+      "id": "624c25b2a5080bc66d44e10f",
+      "question": "Why are you using Firebase? What other options do you have to implement authentication??\r\n",
+      "answer": "Google Firebase is a Google-backed app development platform that allows developers to create apps for iOS, Android, and the web. Firebase delivers analytics tracking, reporting, and app issue fixes, as well as marketing and product experimentation capabilities. It also facilitates the storage and retrieval of dynamic content. If we want to construct the app without having to do any custom code on the backend, Firebase makes it simple. It provides a simple way to interface with Google Analytics, allowing for the acquisition of user behavioral data and the generation of analytical information. Apart from Firebase, we have other authentication choices such as Okta, Auth0, OneLogin, Microsoft Azure Active Directory, and so on.\r\n"
+    },
+    {
+      "id": "624c25b2ed501db274e24947",
+      "question": "What other services does firebase provide other than authentication?\r\n",
+      "answer": "Firebase is a complete solution that can help us construct web or mobile applications faster and more efficiently with fewer resources. Firebase offers a wide range of services. One of them is authentication. However, there are other services that are beneficial. Cloud Firestore, Cloud Functions, Authentication, Hosting, Cloud Storage, Google Analytics, Predictions, Cloud Messaging, Dynamic Links, Remote Config, and others are some of the most important services.\r\n"
+    }
+  ]
